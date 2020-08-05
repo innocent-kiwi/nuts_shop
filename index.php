@@ -33,3 +33,4 @@ echo '<div class="products">';
 <?php	} 	?>
 </div> <!--product-->
 <?php require './footer.php'; ?>
+<p>キウイ</p>
